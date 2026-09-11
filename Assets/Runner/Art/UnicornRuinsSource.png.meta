@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: de4c60a3f386d494886de856b826c6d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5510172568141847191
+    second: UnicornRuinsSource_0
+  - first:
+      213: -4060924310221830796
+    second: UnicornRuinsSource_1
+  - first:
+      213: 8364956374230604219
+    second: UnicornRuinsSource_2
+  - first:
+      213: 3891613138049940748
+    second: UnicornRuinsSource_3
+  - first:
+      213: -7720371163493210525
+    second: UnicornRuinsSource_4
+  - first:
+      213: -6045069209806965148
+    second: UnicornRuinsSource_5
+  - first:
+      213: -8039071541933274982
+    second: UnicornRuinsSource_6
+  - first:
+      213: -768053990375084417
+    second: UnicornRuinsSource_7
+  - first:
+      213: -8768109657050593191
+    second: UnicornRuinsSource_8
+  - first:
+      213: -1256102021017851678
+    second: UnicornRuinsSource_9
+  - first:
+      213: 6966999208813898981
+    second: UnicornRuinsSource_10
+  - first:
+      213: -2678586536487520849
+    second: UnicornRuinsSource_11
+  - first:
+      213: 2127071446340633100
+    second: UnicornRuinsSource_12
+  - first:
+      213: 3685506588522219570
+    second: UnicornRuinsSource_13
+  - first:
+      213: 7744917559460949905
+    second: UnicornRuinsSource_14
+  - first:
+      213: -3951551653984665208
+    second: UnicornRuinsSource_15
+  - first:
+      213: -540624557442971515
+    second: UnicornRuinsSource_16
+  - first:
+      213: -1112778161659829957
+    second: UnicornRuinsSource_17
+  - first:
+      213: -6547293345645798350
+    second: UnicornRuinsSource_18
+  - first:
+      213: 7911299888654857515
+    second: UnicornRuinsSource_19
+  - first:
+      213: 2427621366728946165
+    second: UnicornRuinsSource_20
+  - first:
+      213: -7139354507210332043
+    second: UnicornRuinsSource_21
+  - first:
+      213: 1807171444458404830
+    second: UnicornRuinsSource_22
+  - first:
+      213: -6684434079901125
+    second: UnicornRuinsSource_23
+  - first:
+      213: -959359325598070051
+    second: UnicornRuinsSource_24
+  - first:
+      213: 2000629921828763004
+    second: UnicornRuinsSource_25
+  - first:
+      213: 401704968776273466
+    second: UnicornRuinsSource_26
+  - first:
+      213: -1183170569736381766
+    second: UnicornRuinsSource_27
+  - first:
+      213: 4387843773777746195
+    second: UnicornRuinsSource_28
+  - first:
+      213: -2548581610058501110
+    second: UnicornRuinsSource_29
+  - first:
+      213: 7105588814092086384
+    second: UnicornRuinsSource_30
+  - first:
+      213: -4317473485266656003
+    second: UnicornRuinsSource_31
+  - first:
+      213: 4415300172718728836
+    second: UnicornRuinsSource_32
+  - first:
+      213: -6812452039641804175
+    second: UnicornRuinsSource_33
+  - first:
+      213: 3933782858212830893
+    second: UnicornRuinsSource_34
+  - first:
+      213: 5139040664007878389
+    second: UnicornRuinsSource_35
+  - first:
+      213: 209894778090566939
+    second: UnicornRuinsSource_36
+  - first:
+      213: 6746860372275490837
+    second: UnicornRuinsSource_37
+  - first:
+      213: 7089871240826530389
+    second: UnicornRuinsSource_38
+  - first:
+      213: 2550731130766988686
+    second: UnicornRuinsSource_39
+  - first:
+      213: -7556914620676730364
+    second: UnicornRuinsSource_40
+  - first:
+      213: -4833496621551954529
+    second: UnicornRuinsSource_41
+  - first:
+      213: 6869011210777205218
+    second: UnicornRuinsSource_42
+  - first:
+      213: 2130885775474824866
+    second: UnicornRuinsSource_43
+  - first:
+      213: 3065234759715854340
+    second: UnicornRuinsSource_44
+  - first:
+      213: 6394253399288412021
+    second: UnicornRuinsSource_45
+  - first:
+      213: 4432516125451121117
+    second: UnicornRuinsSource_46
+  - first:
+      213: 8500181680531259253
+    second: UnicornRuinsSource_47
+  - first:
+      213: 4598102275649234125
+    second: UnicornRuinsSource_48
+  - first:
+      213: -3196491106344618226
+    second: UnicornRuinsSource_49
+  - first:
+      213: -2601643401904338124
+    second: UnicornRuinsSource_50
+  - first:
+      213: 419461062836757410
+    second: UnicornRuinsSource_51
+  - first:
+      213: -7456907335323437314
+    second: UnicornRuinsSource_52
+  - first:
+      213: 4680314229650301617
+    second: UnicornRuinsSource_53
+  - first:
+      213: 7747308727056919772
+    second: UnicornRuinsSource_54
+  - first:
+      213: 2766197688488663421
+    second: UnicornRuinsSource_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnicornRuinsSource_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965adc05e3fe783b0800000000000000
+      internalID: -5510172568141847191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 836
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475ca750bd2b4a7c0800000000000000
+      internalID: -4060924310221830796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 660
+        width: 223
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb997afb08b461470800000000000000
+      internalID: 8364956374230604219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 636
+        width: 235
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db5b8c789c10630800000000000000
+      internalID: 3891613138049940748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 666
+        width: 219
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36661d1c45bbbd490800000000000000
+      internalID: -7720371163493210525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_5
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 616
+        width: 222
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fdc2f4999b1ca0800000000000000
+      internalID: -6045069209806965148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_6
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 662
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988d13860b7f6090800000000000000
+      internalID: -8039071541933274982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_7
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 642
+        width: 230
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e2f5f07f25755f0800000000000000
+      internalID: -768053990375084417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 664
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958c3dbe8ba615680800000000000000
+      internalID: -8768109657050593191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_9
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 662
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a493fddd619ee0800000000000000
+      internalID: -1256102021017851678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 652
+        width: 218
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca7cf1ed0cfa060800000000000000
+      internalID: 6966999208813898981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 233
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57480acbfb3dad0800000000000000
+      internalID: -2678586536487520849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 630
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c028203f530e48d10800000000000000
+      internalID: 2127071446340633100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 638
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388a3237bc852330800000000000000
+      internalID: 3685506588522219570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fea5a6c797b7b60800000000000000
+      internalID: 7744917559460949905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 644
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88103a8f4b44929c0800000000000000
+      internalID: -3951551653984665208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 440
+        width: 673
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58842c054d05f78f0800000000000000
+      internalID: -540624557442971515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 630
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312470682e9e80f0800000000000000
+      internalID: -1112778161659829957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 466
+        width: 169
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cd08424675325a0800000000000000
+      internalID: -6547293345645798350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_19
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 440
+        width: 239
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253cd635559acd60800000000000000
+      internalID: 7911299888654857515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_20
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 402
+        width: 229
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1f60d55c4a0b120800000000000000
+      internalID: 2427621366728946165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 604
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578e420d6eaebec90800000000000000
+      internalID: -7139354507210332043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_22
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 469
+        width: 151
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3c2b9adc541910800000000000000
+      internalID: 1807171444458404830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_23
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 539
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9429ea8048eff0800000000000000
+      internalID: -6684434079901125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_24
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 507
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddac4c9b6cbafa2f0800000000000000
+      internalID: -959359325598070051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 430
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75fe99605aa3cb10800000000000000
+      internalID: 2000629921828763004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 439
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e4b607a84239500800000000000000
+      internalID: 401704968776273466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_27
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 192
+        width: 201
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba9a22b2a8849fe0800000000000000
+      internalID: -1183170569736381766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_28
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 144
+        width: 175
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3199ee91aa0c4ec30800000000000000
+      internalID: 4387843773777746195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 255
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04be53578e91acd0800000000000000
+      internalID: -2548581610058501110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 256
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca2ff116f1c9260800000000000000
+      internalID: 7105588814092086384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 199
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df463877db04514c0800000000000000
+      internalID: -4317473485266656003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_32
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 235
+        width: 209
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ee932d1c464d30800000000000000
+      internalID: 4415300172718728836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_33
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 410
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d3cfb6fe4571a0800000000000000
+      internalID: -6812452039641804175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_34
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 354
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeeb4fdaaa979630800000000000000
+      internalID: 3933782858212830893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_35
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 263
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f62a70914a815740800000000000000
+      internalID: 5139040664007878389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_36
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 370
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b153c484032b9e200800000000000000
+      internalID: 209894778090566939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_37
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 235
+        width: 177
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f3ae13c9a1ad50800000000000000
+      internalID: 6746860372275490837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 25
+        width: 225
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a29bc6458446260800000000000000
+      internalID: 7089871240826530389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 17
+        width: 168
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8595e6f274066320800000000000000
+      internalID: 2550731130766988686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_40
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 227
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029b94d032702790800000000000000
+      internalID: -7556914620676730364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_41
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 205
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9558518e68fbecb0800000000000000
+      internalID: -4833496621551954529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_42
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 231
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91d887d41a35f50800000000000000
+      internalID: 6869011210777205218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_43
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 201
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61c18a25d629d10800000000000000
+      internalID: 2130885775474824866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_44
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 221
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081b0e06c6e98a20800000000000000
+      internalID: 3065234759715854340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 27
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5777b64a693fcb850800000000000000
+      internalID: 6394253399288412021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_46
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 216
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd174be7ee5738d30800000000000000
+      internalID: 4432516125451121117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_47
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 181
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f395ad336b6f570800000000000000
+      internalID: 8500181680531259253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_48
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 27
+        width: 211
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4ecfc68adbfcf30800000000000000
+      internalID: 4598102275649234125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_49
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 201
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0732a64648c3a3d0800000000000000
+      internalID: -3196491106344618226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_50
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 0
+        width: 215
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc04d2c1b15ebd0800000000000000
+      internalID: -2601643401904338124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 128
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32e7f3d9932d500800000000000000
+      internalID: 419461062836757410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_52
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 27
+        width: 188
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ba03794eb38890800000000000000
+      internalID: -7456907335323437314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_53
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 132
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b223879ef0d3f040800000000000000
+      internalID: 4680314229650301617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_54
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 104
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdce2818d38f38b60800000000000000
+      internalID: 7747308727056919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornRuinsSource_55
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 69
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d799fd84422836620800000000000000
+      internalID: 2766197688488663421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnicornRuinsSource_0: -5510172568141847191
+      UnicornRuinsSource_1: -4060924310221830796
+      UnicornRuinsSource_10: 6966999208813898981
+      UnicornRuinsSource_11: -2678586536487520849
+      UnicornRuinsSource_12: 2127071446340633100
+      UnicornRuinsSource_13: 3685506588522219570
+      UnicornRuinsSource_14: 7744917559460949905
+      UnicornRuinsSource_15: -3951551653984665208
+      UnicornRuinsSource_16: -540624557442971515
+      UnicornRuinsSource_17: -1112778161659829957
+      UnicornRuinsSource_18: -6547293345645798350
+      UnicornRuinsSource_19: 7911299888654857515
+      UnicornRuinsSource_2: 8364956374230604219
+      UnicornRuinsSource_20: 2427621366728946165
+      UnicornRuinsSource_21: -7139354507210332043
+      UnicornRuinsSource_22: 1807171444458404830
+      UnicornRuinsSource_23: -6684434079901125
+      UnicornRuinsSource_24: -959359325598070051
+      UnicornRuinsSource_25: 2000629921828763004
+      UnicornRuinsSource_26: 401704968776273466
+      UnicornRuinsSource_27: -1183170569736381766
+      UnicornRuinsSource_28: 4387843773777746195
+      UnicornRuinsSource_29: -2548581610058501110
+      UnicornRuinsSource_3: 3891613138049940748
+      UnicornRuinsSource_30: 7105588814092086384
+      UnicornRuinsSource_31: -4317473485266656003
+      UnicornRuinsSource_32: 4415300172718728836
+      UnicornRuinsSource_33: -6812452039641804175
+      UnicornRuinsSource_34: 3933782858212830893
+      UnicornRuinsSource_35: 5139040664007878389
+      UnicornRuinsSource_36: 209894778090566939
+      UnicornRuinsSource_37: 6746860372275490837
+      UnicornRuinsSource_38: 7089871240826530389
+      UnicornRuinsSource_39: 2550731130766988686
+      UnicornRuinsSource_4: -7720371163493210525
+      UnicornRuinsSource_40: -7556914620676730364
+      UnicornRuinsSource_41: -4833496621551954529
+      UnicornRuinsSource_42: 6869011210777205218
+      UnicornRuinsSource_43: 2130885775474824866
+      UnicornRuinsSource_44: 3065234759715854340
+      UnicornRuinsSource_45: 6394253399288412021
+      UnicornRuinsSource_46: 4432516125451121117
+      UnicornRuinsSource_47: 8500181680531259253
+      UnicornRuinsSource_48: 4598102275649234125
+      UnicornRuinsSource_49: -3196491106344618226
+      UnicornRuinsSource_5: -6045069209806965148
+      UnicornRuinsSource_50: -2601643401904338124
+      UnicornRuinsSource_51: 419461062836757410
+      UnicornRuinsSource_52: -7456907335323437314
+      UnicornRuinsSource_53: 4680314229650301617
+      UnicornRuinsSource_54: 7747308727056919772
+      UnicornRuinsSource_55: 2766197688488663421
+      UnicornRuinsSource_6: -8039071541933274982
+      UnicornRuinsSource_7: -768053990375084417
+      UnicornRuinsSource_8: -8768109657050593191
+      UnicornRuinsSource_9: -1256102021017851678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

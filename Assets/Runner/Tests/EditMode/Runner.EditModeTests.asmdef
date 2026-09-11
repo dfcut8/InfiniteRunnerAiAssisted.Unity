@@ -1,0 +1,6 @@
+{
+  "name": "Runner.EditModeTests",
+  "references": ["Runner.Runtime"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"]
+}
